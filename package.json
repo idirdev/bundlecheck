@@ -1,0 +1,22 @@
+{
+  "name": "@idirdev/bundlecheck",
+  "version": "1.0.0",
+  "description": "Analyze JavaScript bundle sizes with gzip/brotli estimates.",
+  "main": "src/index.js",
+  "author": "idirdev",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/idirdev/bundlecheck.git"
+  },
+  "keywords": [],
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "scripts": {
+    "test": "node --test tests/"
+  },
+  "bin": {
+    "bundlecheck": "bin/cli.js"
+  }
+}
