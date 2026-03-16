@@ -18,5 +18,9 @@
   },
   "bin": {
     "bundlecheck": "bin/cli.js"
+  },
+  "homepage": "https://github.com/idirdev/bundlecheck",
+  "bugs": {
+    "url": "https://github.com/idirdev/bundlecheck/issues"
   }
 }
